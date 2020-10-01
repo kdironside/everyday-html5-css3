@@ -312,7 +312,9 @@ h1 {
     color: #555555;											
     display: block;
     font: italic 14px Georgia,serif;
-    margin-top: 5px;
+    margin-top: 9px;
+    margin-bottom: 10px;
+   
 }
 
 /*------------------ NAVIGATION -------------------*/
